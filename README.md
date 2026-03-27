@@ -1,0 +1,1 @@
+This project aims to build an end-to-end predictive analytics pipeline to identify customers at risk of churn using historical customer data. The workflow follows a structured data science process, from exploration to model evaluation.
